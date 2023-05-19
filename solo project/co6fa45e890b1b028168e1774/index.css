@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+}
+#wrapp
+{
+    background-color: #3F4044;
+    height: 210px;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 70px;
+    margin-left: 50px;
+}
+.home-styl
+{
+    font-size: 33px;
+    color: white;
+}
+#wrapper-1
+{
+    background-color: black;
+    width: 100px;
+    height: 70px;
+    margin-top: -30px; 
+    overflow: hidden;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+#wrapper-2
+{
+    background-color: black;
+    width: 100px;
+    height: 70px;
+    margin-top: 0px; 
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.guest-styl
+{
+    font-size: 28px;
+    margin-bottom: 5px;
+    margin-top: 37px;
+    color: white;
+}
+#digits
+{
+   color: #F94F6D;
+    text-align: center;
+    padding-top: 1px;
+    font-size: 65px;
+    color: #F94F6D;
+    background: black;
+    font-family: 'Silkscreen';
+}
+#digits2
+{
+    font-family: 'Silkscreen';
+    text-align: center;
+    padding-top: 1px;
+    font-size: 65px;
+    color: #F94F6D;
+}
+#firstiteratorbtn
+{
+    background: transparent;
+    border: 1px solid #9AABD8; 
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+#seconditeratorbtn
+{
+    background: transparent;
+    border: 1px solid #9AABD8; 
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+#thirditeratorbtn
+{
+    background: transparent;
+    border: 1px solid #9AABD8; 
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+#firstiteratorbtnv2d
+{
+    background: transparent;
+    border: 1px solid #9AABD8; 
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+#seconditeratorbtnv2d
+{
+    background: transparent;
+    border: 1px solid #9AABD8; 
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+#thirditeratorbtnv2d
+{
+    background: transparent;
+    border: 1px solid #9AABD8; 
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
