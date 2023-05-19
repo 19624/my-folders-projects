@@ -9,7 +9,7 @@ let digit2Data = document.getElementById("digits2")
 let x = 0
 firstIterater.addEventListener("click", function(){
      x = x + 1
-     digit1Data.innerHTML = x
+     digit1Data.innerHTML = x 
 })
 
 secondIterater.addEventListener("click", function(){
